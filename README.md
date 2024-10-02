@@ -1,2 +1,2 @@
-# Priyanka-s-Portfolio
+# PriyankaPortfolio
 Software Tester Portfolio
